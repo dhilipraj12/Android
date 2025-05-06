@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Myapp1</string>
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="menu">Menu</string>
+    <string name="sustainability">Sustainability</string>
+    <string name="knowledgeable_hub">Knowledgeable Hub</string>
+    <string name="outreach">Outreach</string>
+    <string name="programs_offered">Programs Offered</string>
+    <string name="research">Research</string>
+    <string name="this_is_the_about_page">This is the About Page</string>
+    <string name="menu_icon">Menu Icon</string>
+</resources>

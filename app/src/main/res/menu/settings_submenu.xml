@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/menu_profile"
+        android:title="Profile Settings" />
+    <item
+        android:id="@+id/menu_app_settings"
+        android:title="App Settings" />
+    <item
+        android:id="@+id/menu_orders"
+        android:title="Payments" />
+    <item
+        android:id="@+id/menu_about"
+        android:title="About" />
+</menu>
